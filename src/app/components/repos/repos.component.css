@@ -4,7 +4,7 @@
 .brand h3{
     color: white;
     font-family: 'Acme', sans-serif;
-    font-size: 30px;
+    font-size: 32px;
 }
 .br{
     color: #F1B24A;
@@ -34,7 +34,7 @@
     font-weight: 800;
 }
 .description h4{
-    color: #F1B24A;
+    color: black;
     font-family: 'Domine', serif;
     font-size: 34px;
     font-weight: 700;
