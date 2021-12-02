@@ -1,0 +1,69 @@
+.brand{
+    padding-top: 30px;
+}
+.brand h3{
+    color: white;
+    font-family: 'Acme', sans-serif;
+    font-size: 30px;
+}
+.br{
+    color: #F1B24A;
+}
+.cont{
+    padding-top: 30px;
+}
+.cont h4{
+    color: white;
+    text-align: right;
+}
+.con{
+    color: #F1B24A;
+    text-align: right;
+}
+.cont a {
+    margin-left: 91%;
+}
+.description{
+    margin-top:120px
+}
+.description h3{
+    color: white;
+    /* font-family: 'Domine', serif; */
+    font-size: 55px;
+    text-align: center;
+    font-weight: 800;
+}
+.description h4{
+    color: #F1B24A;
+    font-family: 'Domine', serif;
+    font-size: 34px;
+    font-weight: 700;
+    text-align:center;
+}
+.myForm{
+    padding-top: 130px;
+}
+
+.alert-link{
+    text-decoration: none;
+    font-size: 14px;
+    color: #2980B9;
+    text-transform: uppercase;
+}
+.alert p{
+    color: black;
+    font-size: 13px;
+}
+.show{
+    font-size: 12px;
+    color:#F1C40F
+}
+.alert h6{
+    color: green;
+}
+.alert h4{
+   color: #17202A ;
+}
+.repo{
+    padding-top: 100px;
+}

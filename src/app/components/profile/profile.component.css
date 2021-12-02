@@ -1,0 +1,142 @@
+.brand{
+    padding-top: 30px;
+}
+.brand h3{
+    color: white;
+    font-family: 'Acme', sans-serif;
+    font-size: 30px;
+}
+.br{
+    color: #F1B24A;
+}
+.cont{
+    padding-top: 30px;
+}
+.cont h4{
+    color: white;
+    text-align: right;
+}
+.con{
+    color: #F1B24A;
+    text-align: right;
+}
+.cont a {
+    margin-left: 92%;
+}
+.myForm{
+    padding-top: 111px;
+}
+.description{
+    margin-top:100px
+}
+.description h3{
+    color: white;
+    /* font-family: 'Domine', serif; */
+    font-size: 55px;
+    text-align: center;
+    font-weight: 800;
+}
+.description h4{
+    color: #F1B24A;
+    font-family: 'Domine', serif;
+    font-size: 34px;
+    font-weight: 700;
+    text-align:center;
+}
+.card-group{
+    padding-top: 70px;
+}
+.cards{
+    background-color: transparent;
+    border: 1px solid white;
+    
+    padding: 11px;
+}
+.cards:hover{
+    background-color: transparent;
+    border: 1px solid #F1B24A; 
+}
+.card-text {
+    color: white;
+    font-size: 13px;
+  }
+.card-text:hover {
+    color: #F1B24A;
+  }
+  .card-texts {
+    color: blue;
+    font-size: 13px;
+  }
+.navs{
+    list-style-type: none;
+    margin: 0;
+  padding: 0;
+}
+.navs li{
+    display: inline-block;
+  padding: 4px;
+}
+.img{
+    width:40px;
+    height: auto;
+    border-radius: 50%;
+}.mytag{
+    color: #164A41;
+    font-weight: 600;
+}
+.alert-link{
+    text-decoration: none;
+    font-size: 14px;
+    color: #2980B9;
+    text-transform: uppercase;
+}
+.alert p{
+    color: black;
+    font-size: 13px;
+}
+#scr{
+    padding-top: 100px;
+    padding-bottom: 150px;
+}
+.btn:hover {
+    background-color: black;
+    border-color: #F1B24A;
+    color: white;
+}
+ul.breadcrumb {
+    padding: 10px 16px;
+    list-style: none;
+    background-color: #eee;
+    border: 2px solid #F1B24A;
+  }
+  ul.breadcrumb li {
+    display: inline;
+    font-size: 13px;
+  }
+  ul.breadcrumb li+li:before {
+    padding: 5px;
+    color: black;
+    content: "/\00a0";
+  }
+  ul.breadcrumb li a {
+    color: #F1B24A;
+    text-decoration: none;
+  }
+  ul.breadcrumb li a:hover {
+    color: #01447e;
+    text-decoration: underline;
+  }
+.second{
+    padding-top: 30px;
+}
+@media screen and (min-width: 480px) and (max-width: 767px) {
+	.cards {
+		width:100%;
+	}
+}
+
+@media screen and (min-width: 320px) and (max-width: 480px) {
+	.cards {
+		width:100%;
+	}
+}
