@@ -56,13 +56,13 @@
 }
 .show{
     font-size: 12px;
-    color:#F1C40F
+    color: black;
 }
 .alert h6{
-    color: green;
+    color: black;
 }
 .alert h4{
-   color: #17202A ;
+color: black;
 }
 .repo{
     padding-top: 100px;
