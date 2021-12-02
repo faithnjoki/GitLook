@@ -53,6 +53,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 - Bootstrap
 - Jquery
 - Github API
+-html and css
 
 ## Live link : https://faithnjoki.github.io/GitLook/
 
